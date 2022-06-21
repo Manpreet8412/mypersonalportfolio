@@ -1,33 +1,27 @@
 [
     {
         "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "icon": "https://github.com/Manpreet8412/mypersonalportfolio/blob/main/assets/images/htmllogp.png?raw=true"
     },
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
+    
     
    
     
    
     {
         "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://github.com/Manpreet8412/mypersonalportfolio/blob/main/assets/images/htmllogp.png?raw=true"
     },
     {
         "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "icon": "https://raw.githubusercontent.com/Manpreet8412/mypersonalportfolio/main/assets/images/CSS.webp"
     },
     {
         "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "icon": "https://github.com/Manpreet8412/mypersonalportfolio/blob/main/assets/images/javalogo.jpe"
     }
+    
+    
     
     
 ]
