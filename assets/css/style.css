@@ -452,7 +452,7 @@ header .navbar ul li a:hover {
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
-  width: 110%;
+  width: 140%;
   margin: auto;
   margin-top: 2rem;
 }
@@ -504,7 +504,7 @@ header .navbar ul li a:hover {
   }
   .skills .container {
     margin-top: 5px;
-    width: 100%;
+    width: 140%;
   }
 }
 /* skills media queries ends*/
